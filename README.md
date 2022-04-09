@@ -19,7 +19,7 @@ Determined the following:
 Used Python 3.7.6, Visual Studio Code 1.66.1
 
 Source data proivded by Coloardo Board of Elections
-[Link to source data](election_results.csv)
+[Link to source data](Resources/election_results.csv)
 
 ### Summary
 
