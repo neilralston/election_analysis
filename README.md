@@ -23,7 +23,7 @@ Source data proivded by Coloardo Board of Elections
 [Link to source data](Resources/election_results.csv)
 
 ### Summary
-
+![Summary_Image]( )
 
 
 ## Challenge Overview
