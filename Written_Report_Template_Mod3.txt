@@ -20,9 +20,7 @@ This project was prepared using the following:
 * Python 3.7.6
 * Visual Studio Code 1.66.1
 
-* Source data provided by the Colorado Board of Elections:
-
- [Link to source data](Resources/election_results.csv)
+* Source data provided by the Colorado Board of Elections: [Link to source data](Resources/election_results.csv)
 
 ## Election Audit Results
 The election outcomes are as follows:
