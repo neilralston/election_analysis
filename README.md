@@ -41,7 +41,7 @@ The election outcomes are as follows:
 		* A total of 38,855 votes were cast in Jefferson County, for the remaining 10.5% of the total
 			* __Denver County had the largest number of votes__
 			
-	*Candidate Results
+	* County Results	
 		* Candidate Diana DeGette received 272,892 votes, for 73.8% of the total
 		* Candidate Raymon Anthony Doane received 11,606 votes, for 3.1% of the total
 		* Candidate Casper Stockham received 85,213 votes, for the remaining 23.0% of the total
