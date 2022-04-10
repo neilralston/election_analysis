@@ -8,11 +8,18 @@
 Completed an election audit of a recent local congressional election in Colorado.
 
 Determined the following:
-1. Total number of votes cast in the election.
-2. Compiled a list of all candidates receiving votes.
-3. Calculated the total votes received by each candidate.
-4. Calculated the percentage of votes won by each candidate.
-5. Determined the winner of the election by popular vote.
+1. Assessed Candidate results: 
+* Determiend the total number of votes cast in the election.
+* Compiled a list of all candidates receiving votes.
+* Calculated the total votes received by each candidate.
+* Calculated the percentage of votes won by each candidate.
+* Determined the winner of the election by popular vote.
+
+2. Assessed County results:
+* Compiled a list of all Counties where votes were cast in the election.
+* Calculated the total votes cast in each County.
+* Calculated the percentage of total votes cast in each County.
+* Determinated the County that had the largest number of votes cast.  
 
 ### Resources
 
@@ -20,7 +27,7 @@ This project was prepared using the following:
 * Python 3.7.6
 * Visual Studio Code 1.66.1
 
-* Source data provided by the Colorado Board of Elections:  [Link to source data](Resources/election_results.csv)
+* Source data provided by the Colorado Board of Elections: [Link to source data](Resources/election_results.csv)
 
 ## Election Audit Results
 The election outcomes are as follows:
